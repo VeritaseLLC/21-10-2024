@@ -35,7 +35,7 @@ body {
 header {
     height: 790px;
     width: 100%;
-    background: url("./our_products_banner.png");
+    background: url("../our_products_banner.png");
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
