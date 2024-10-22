@@ -1,0 +1,254 @@
+@media only screen and (max-width:1400px) {
+    body {
+        max-width: 1400px;
+        overflow-x: hidden;
+    }
+
+    .menu-btn {
+        margin-left: 20px;
+    }
+
+    .right-side a {
+        margin-right: 130px;
+
+    }
+
+    .bubble {
+        width: 450px;
+        height: 450px;
+    }
+
+    .ecosystem-para {
+        font-size: 16px;
+    }
+
+    .whatwedo-para {
+        font-size: 16px;
+    }
+
+    .about-para {
+        font-size: 16px;
+    }
+
+    .ecosystem-image img {
+        width: 100%;
+    }
+
+    .ecosystem-content {
+        width: 59.5%;
+        margin-left: 30px;
+    }
+
+    .ourproduct-container {
+        width: 100%;
+    }
+
+    .team-right-image {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    .employee-1-img {
+        position: absolute;
+        margin-left: 10%;
+        margin-top: -50px;
+        height: 45%;
+    }
+
+    .employee-2-img {
+        position: absolute;
+        margin-left: 10%;
+        margin-top: 20%;
+        width: 18.3%;
+        height: 40%;
+    }
+
+    .team-text-content {
+        font-size: 16px;
+        width: 70%;
+        margin-top: -10px;
+    }
+
+    .team-text-content-1 {
+        font-size: 16px;
+        width: 50%;
+    }
+
+    .employee-3-img {
+        position: absolute;
+        margin-left: -11.5%;
+        margin-top: 25%;
+        width: 20%;
+    }
+
+    .employee-4-img {
+        position: absolute;
+        margin-left: -11.5%;
+        margin-top: 4%;
+        width: 20%;
+        height: 40%;
+    }
+
+    .employee-5-img {
+        position: absolute;
+        margin-left: -31%;
+        margin-top: 20%;
+        width: 18%;
+        height: 40%;
+    }
+
+    .global-container {
+        width: 100%;
+    }
+
+    footer {
+        width: 100%;
+    }
+
+    .left-content {
+        padding-left: 100px;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+
+    body {
+        max-width: 1200px;
+        overflow-x: hidden;
+
+    }
+
+    header {
+        width: 100%;
+        height: 100vh;
+    }
+
+    .nav-item {
+        width: 30%;
+    }
+
+    .right-side a {
+        margin-right: 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .logo {
+        height: 15px;
+        width: 15px;
+    }
+
+    .down-arrow-icon {
+        margin-top: 5px;
+    }
+
+    .bubble-text p {
+        font-size: 30px;
+    }
+
+    .bubble-text btn {
+        font-size: 16px;
+    }
+
+    .bubble {
+        width: 350px;
+        height: 350px;
+    }
+
+    .whoweare {
+        width: 100%;
+        margin-top: -2.3%;
+    }
+
+    .whoweare_image_container {
+        width: 100%;
+
+    }
+    .ecosystem-content{
+        width: 68%;
+    }
+    .our-product{
+        width: 100%;
+    }
+.employee-5-img{
+    height: 30%;
+    margin-top: 26%;
+}
+.employee-4-img{
+    height: 30%;
+    margin-top: 8.7%;
+}
+.employee-3-img{
+    height: 27%;
+    margin-top: 27.5%;
+    
+}
+.employee-2-img{
+    height: 30%;
+    margin-top: 25.7%;
+    width: 16%;
+}
+.employee-1-img{
+    height: 35%;
+    margin-top: 4%;
+  }
+  .global-container{
+    width: 100%;
+  }
+  .footer-logo{
+    height: 20px;
+  }
+  .subscriber-text{
+    font-size: 20px;
+  }
+  .foot-text{
+    font-size: 16px;
+  }
+  .foot-text-1{
+    font-size: 15px;
+  }
+  .list-text-head{
+    font-size: 18px;
+  }
+  .list-text-para{
+    font-size: 15px;
+  }
+  .list-item{
+    width: 45%;
+    padding-right: 20px;
+      }
+
+}
+
+@media only screen and (max-width:992px) {
+    body {
+        background-color: brown;
+    }
+
+}
+
+@media only screen and (min-width:579px) and (max-width:991px) {
+    body {
+        background-color: darkslateblue;
+    }
+}
+
+@media only screen and (max-width:578px) {
+    body {
+        background-color: chocolate;
+    }
+}
+
+@media only screen and (max-width:450px) {
+
+    body {
+        background-color: cyan;
+    }
+}
+
+@media only screen and (max-width:390px) {
+    body {
+        background-color: darkgreen;
+    }
+
+}
